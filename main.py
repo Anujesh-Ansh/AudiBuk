@@ -1,3 +1,10 @@
+'''
+Firstly import 2 packages which are: -
+-> pyttsx3 = used to make the program speak     # write 'pip install pyttsx3' in the terminal
+-> PyPDF3 = used to make the program able to perform on a .pdf type of files     # write 'pip install PyPDF3' in the terminal 
+
+'''
+
 import pyttsx3 # to make it speak
 import PyPDF3
 
